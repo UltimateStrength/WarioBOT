@@ -1,7 +1,4 @@
-<a href="https://top.gg/bot/709448420548673536">
-  <img src="https://top.gg/api/widget/709448420548673536.svg" alt="WarioBOT" />
-  </a>
-
+<img src="https://cdn.discordapp.com/attachments/714115136499220503/855478405919408148/Wallpaper_13.jpg"/>
 **Adicione WarioBOT em Seu Servidor do Discord**
 
 ``Prefixo Padrão -- w. ou Menção``
