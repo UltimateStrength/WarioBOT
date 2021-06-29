@@ -119,7 +119,7 @@ if(comando === "") {
 
 }
 
-  // comando bem-vindo
+  // comando bem-vindo 
   if(comando === "bem-vindo") {
     const m = await message.channel.send("Isso Mesmo Seja Bem Vindo https://cdn.discordapp.com/attachments/603568752206020608/713009381981159474/Bem_Vindo.gif");
   
