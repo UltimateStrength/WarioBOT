@@ -1,0 +1,4 @@
+//procfile
+
+worker node bot.js
+worker node config.json
